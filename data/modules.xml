@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules>
+    <module>
+        <id>1</id>
+        <nom>Maths</nom>
+    </module>
+    <module>
+        <id>2</id>
+        <nom>Physique</nom>
+    </module>
+</modules>

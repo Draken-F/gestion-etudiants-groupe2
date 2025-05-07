@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etudiants>
+    <etudiant>
+        <id>1</id>
+        <nom>Jean Dupont</nom>
+        <module>Maths</module>
+    </etudiant>
+    <etudiant>
+        <id>2</id>
+        <nom>Marie Curie</nom>
+        <module>Physique</module>
+    </etudiant>
+</etudiants>
